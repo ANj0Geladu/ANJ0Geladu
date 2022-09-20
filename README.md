@@ -16,7 +16,7 @@ Oi, sou um desenvolvedor Jr. tenho 21 anos, amo o que eu faço... // Hi, I'm a J
    
    <img src="../foto .png.jfif" alt="">
   
-  <img align="right" alt="victor-pic" height="180" style="border-radius:50px;" src="https://lh3.googleusercontent.com/C4r4j0hhHdeepOj2lE7EWYPSWOndXTqzqEv_l8S-ifiAtBpUSngONa4x5b2_tB4Pi3R29Q0=s85">
+  <img align="right" alt="victor-pic" height="200" style="border-radius:80px;" src="https://lh3.googleusercontent.com/C4r4j0hhHdeepOj2lE7EWYPSWOndXTqzqEv_l8S-ifiAtBpUSngONa4x5b2_tB4Pi3R29Q0=s85">
   
 
 </div>
