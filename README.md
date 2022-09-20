@@ -11,7 +11,13 @@ Oi, sou um desenvolvedor Jr. tenho 21 anos, amo o que eu faço... // Hi, I'm a J
   <img align="center" alt="victo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="victo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+   <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ jest/jest-plain.svg">
+  
+  
+  jest/jest-plain.svg
   <i class="devicon-nodejs-plain-wordmark colored"></i>
    
   
