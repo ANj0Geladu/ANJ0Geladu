@@ -19,7 +19,7 @@ Oi, sou um desenvolvedor Jr. tenho 21 anos, amo o que eu faço... // Hi, I'm a J
   <img align="center" alt="victo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
  
-  
+   <img align="right" alt="victor-pic" height="200" style="border-radius:80px;" src="https://lh3.googleusercontent.com/C4r4j0hhHdeepOj2lE7EWYPSWOndXTqzqEv_l8S-ifiAtBpUSngONa4x5b2_tB4Pi3R29Q0=s85">
   
 
 </div>
