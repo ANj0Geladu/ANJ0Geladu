@@ -21,7 +21,7 @@ Oi, sou um desenvolvedor Jr. tenho 21 anos, amo o que eu faço... // Hi, I'm a J
 
 
 
-- 🌱 web full stack
+- 🌱 web full stackz
 - 😄 Pronouns: ele/dele --- he/his
 - ⚡ Fun fact: i love sport, 
 especially the combat ones
